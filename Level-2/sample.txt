@@ -1,0 +1,3 @@
+Hello world! Hello Python.
+Python is great. Hello, world!
+Python is a programming language.
